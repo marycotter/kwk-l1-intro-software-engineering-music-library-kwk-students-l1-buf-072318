@@ -18,7 +18,7 @@ end
 def delete_artist(playlist,artist)
   if artist = artist_name
     playlist.delete(artist_name)
-   end
+   
    
   end
 end
